@@ -1,0 +1,4 @@
+build/
+.DS_store
+libs/*
+src/main/assets/*.bin
